@@ -5,8 +5,8 @@
       "password": "password"
     },
     {
-      "username": "read_write_user",
-      "password": "password",
+      "username": "gliacloud",
+      "password": "2a49b5235826c7c56e0898eb857464030571b489",
       "roles": ["write"]
     }
   ]
